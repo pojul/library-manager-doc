@@ -10,10 +10,10 @@
 输入'alm/alm -help'查看更多命令<br/>
 
 
-详细介绍： 
-#### Library Manager是如何运行的(https://gitee.com/pojul/thirdlib_configs/blob/master/Readme.md)<br/>
-#### Library Manager插件库的三种类型(https://www.runoob.com)<br/>
-#### Library Manager 插件库configs介绍(https://www.runoob.com)<br/>
-#### 如何制作自己的插件库(https://www.runoob.com)<br/>
-#### 测试本地插件库(https://www.runoob.com)<br/>
-#### 上传插件库(https://www.runoob.com)<br/>
+#### 详细介绍： 
+#### [Library Manager是如何运行的](https://gitee.com/pojul/library-manager-doc/blob/master/zh/run.md)<br/>
+#### [Library Manager插件库的三种类型](https://gitee.com/pojul/library-manager-doc/blob/master/zh/classes.md)<br/>
+#### [Library Manager 插件库configs介绍](https://gitee.com/pojul/library-manager-doc/blob/master/zh/configs.md)<br/>
+#### [如何制作自己的插件库](https://gitee.com/pojul/library-manager-doc/blob/master/zh/selfmade.md)<br/>
+#### [测试本地插件库](https://gitee.com/pojul/library-manager-doc/blob/master/zh/testlocal.md)<br/>
+#### [上传插件库](https://gitee.com/pojul/library-manager-doc/blob/master/zh/upload.md)<br/>
