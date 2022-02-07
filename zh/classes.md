@@ -7,6 +7,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;3、code_classes: 以java代码类的方式集成，在工程项目下下载third_libs作为一个module，并将需要集成的java代码下载到third_libs下供主工程调用
 
-[Library Manager是如何运行的](https://gitee.com/pojul/library-manager-doc/blob/master/zh/run.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[插件库configs介绍](https://gitee.com/pojul/library-manager-doc/blob/master/zh/configs.md)
+[Library Manager是如何运行的](https://github.com/pojul/library-manager-doc/blob/master/zh/run.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[插件库configs介绍](https://github.com/pojul/library-manager-doc/blob/master/zh/configs.md)
 
 ##### 重新安装插件会将之前安装的删除，若在插件库中有修改也会被一起删除<br/>

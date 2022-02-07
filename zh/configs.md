@@ -13,7 +13,7 @@
 |libVersionCode|插件版本号|
 |libVersionName|插件版本名称|
 |libAutherEmail|插件上传者Email地址|
-|integrateWay|集成方式，参考 [插件库的三种类型](https://gitee.com/pojul/library-manager-doc/blob/master/zh/classes.md)|
+|integrateWay|集成方式，参考 [插件库的三种类型](https://github.com/pojul/library-manager-doc/blob/master/zh/classes.md)|
 |updateTime|更新时间|
 |blog|插件使用文档url|
 |tags|插件标签，多个用英文逗号分隔|
@@ -58,4 +58,4 @@
 |tabNum |插入的内容前添加的tab空格数量|
 
 
-[Library Manager插件库的三种类型](https://gitee.com/pojul/library-manager-doc/blob/master/zh/classes.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[如何制作自己的插件库](https://gitee.com/pojul/library-manager-doc/blob/master/zh/selfmade.md)
+[Library Manager插件库的三种类型](https://github.com/pojul/library-manager-doc/blob/master/zh/classes.md)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[如何制作自己的插件库](https://github.com/pojul/library-manager-doc/blob/master/zh/selfmade.md)
